@@ -1,0 +1,6 @@
+requests
+os
+dotenv
+time
+json
+tqdm
